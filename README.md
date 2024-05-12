@@ -6,7 +6,7 @@ This app uses Jetstream. Jetstream is a ready-made authentication library. In th
 ![loginPage](https://github.com/AlperenAktas05/Sneat/blob/master/public/img/s1.png)
 
 ## Home Page:
-This application uses a ready-made template called Sneat. This page lists tasks. We can edit or delete tasks.
+This application uses a ready-made template called Sneat. This page lists tasks. Tasks can be edited or deleted.
 ![homePage](https://github.com/AlperenAktas05/Sneat/blob/master/public/img/s2.png)
 
 ## Create Task:
